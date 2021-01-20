@@ -3,16 +3,18 @@
 
 @import "jekyll-theme-slate";
 
-/* Two image containers
-.column {
-  float: left;
-  width: 50.00%;
-  padding: 0px;
+.header_container {
 }
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.header_thumbnail {
+    float: left
 }
+
+.header_thumbnail img {
+    display: block
+}
+
+.header_content {
+margin-left: 210px
+}
+
