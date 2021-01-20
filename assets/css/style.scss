@@ -1,6 +1,10 @@
 ---
 ---
 
+.img {
+box-shadow: 0 0 0px #ebebeb;
+}
+
 @import "jekyll-theme-slate";
 
 .header_container {
@@ -16,8 +20,4 @@
 
 .header_content {
 margin-left: 210px
-}
-
-.img {
-box-shadow: 0 0 0px #ebebeb;
 }
