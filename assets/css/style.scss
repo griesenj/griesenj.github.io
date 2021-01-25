@@ -5,10 +5,6 @@ img {
   width:250px;
 }
 
-p img {
-  width:250px;
-}
-
 @import "jekyll-theme-slate";
 
 .header_container {
@@ -16,6 +12,7 @@ p img {
 
 .header_thumbnail {
     float: left
+    width:100px;
 }
 
 .header_thumbnail img {
