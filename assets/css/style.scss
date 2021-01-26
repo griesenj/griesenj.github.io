@@ -3,6 +3,19 @@
 
 img {
   width:250px;
+  
+  position: relative;
+  margin: 0 auto;
+  max-width: 739px;
+  padding: 5px;
+  margin: 10px 0 10px 0;
+  border: 0px solid #ebebeb;
+
+  box-shadow: 0 0 5px #ebebeb;
+  -webkit-box-shadow: 0 0 5px #ebebeb;
+  -moz-box-shadow: 0 0 5px #ebebeb;
+  -o-box-shadow: 0 0 5px #ebebeb;
+  -ms-box-shadow: 0 0 5px #ebebeb;  
 }
 
 @import "jekyll-theme-slate";
@@ -17,7 +30,7 @@ img {
 
 .header_thumbnail img {
   display: block;
-  width: 100px;
+  width: 125px;
 }
 
 .header_content {
