@@ -8,17 +8,18 @@ img {
 @import "jekyll-theme-slate";
 
 .header_container {
+    
 }
 
 .header_thumbnail {
-    float: left
+  float: left
 }
 
 .header_thumbnail img {
-    display: block
-    width: 100px
+  display: block;
+  width: 100px;
 }
 
 .header_content {
-margin-left: 210px
+  margin-left: 210px;
 }
