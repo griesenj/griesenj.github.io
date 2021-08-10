@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jon Griesen"
 description              : "A site outlining my personal and academic projects related to programming."
-url                      : "griesenj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "griesenj.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Jon Griesen"
-  avatar           : "/assets/images/thumbnail.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/thumbnail.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate student at GVSU actively developing my computer science and programming skillset."
   location         : "Grand Rapids, MI"
   email            : "email"
