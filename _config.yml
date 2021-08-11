@@ -107,24 +107,15 @@ author:
   location         : "Grand Rapids, MI"
   email            : "email"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:griesenj@mail.gvsu.edu"
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      url: "linkedin.com/in/griesenj"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://linkedin.com/in/griesenj"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/griesenj"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:griesenj@mail.gvsu.edu"
 
 # Site Footer
 footer:
