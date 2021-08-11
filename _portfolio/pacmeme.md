@@ -7,17 +7,17 @@ header:
   teaser: https://raw.githubusercontent.com/ngboardway/GVSU-CIS641-Moot-Floating-Point/master/images/demo/PacMeme4.PNG
 gallery:
   - url: /assets/images/PacMeme1.png
-    image_path: /assets/images/PacMeme1.png
+    image_path: assets/images/PacMeme1.png
   - url: /assets/images/PacMeme2.png
-    image_path: /assets/images/PacMeme2.png
+    image_path: assets/images/PacMeme2.png
   - url: /assets/images/PacMeme3.png
-    image_path: /assets/images/PacMeme3.png
+    image_path: assets/images/PacMeme3.png
   - url: /assets/images/PacMeme4.png
-    image_path: /assets/images/PacMeme4.png
+    image_path: assets/images/PacMeme4.png
   - url: /assets/images/PacMeme5.png
-    image_path: /assets/images/PacMeme5.png
+    image_path: assets/images/PacMeme5.png
   - url: /assets/images/PacMeme6.png
-    image_path: /assets/images/PacMeme6.png
+    image_path: assets/images/PacMeme6.png
 toc: true
 toc_label: "Pac-Meme"
 toc_icon: "cogs"
