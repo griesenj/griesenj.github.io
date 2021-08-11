@@ -1,6 +1,6 @@
 ---
 title: "Disc Golf GDX"
-excerpt: "Desktop game developed with Java and LibGDX framework."
+excerpt: "2D mini-golf style desktop game developed with Java and LibGDX framework."
 layout: single
 author_profile: true
 header:
@@ -10,7 +10,7 @@ toc_label: "Disc Golf GDX"
 toc_icon: "cogs"
 ---
 
-[View project source code on GitHub](https://github.com/griesenj/GolfGameGDX)
+**[View project source code on GitHub](https://github.com/griesenj/GolfGameGDX)**
 
 ## Overview
 

@@ -10,7 +10,7 @@ toc_label: "Paced"
 toc_icon: "cogs"
 ---
 
-[View project source code on GitHub](https://github.com/griesenj/Paced)
+**[View project source code on GitHub](https://github.com/griesenj/Paced)**
 
 ## Overview
 

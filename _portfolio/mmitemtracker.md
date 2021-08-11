@@ -15,7 +15,7 @@ toc_label: "Randomizer Item Tracker"
 toc_icon: "cogs"
 ---
 
-[View project source code on GitHub](https://github.com/griesenj/ZeldaTracker)
+**[View project source code on GitHub](https://github.com/griesenj/ZeldaTracker)**
 
 ## Overview
 
