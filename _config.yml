@@ -113,9 +113,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/griesenj"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:griesenj@mail.gvsu.edu"
 
 # Site Footer
 footer:
