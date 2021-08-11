@@ -25,6 +25,6 @@ toc_icon: "cogs"
 
 ## Gallery
 
-{% include video id="CAQl9lpXcnQ&list=LLJMwrQ6-W7UdTNswm3hzgOQ" provider="youtube" %}
+{% include video id="CAQl9lpXcnQ" provider="youtube" caption="CIS 622 (Software Design Methodologies) project presentation." %}
 
-{% include gallery caption="Testing project photo gallery." %}
+{% include gallery %}
