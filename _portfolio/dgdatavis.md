@@ -4,7 +4,7 @@ excerpt: "Java driven illustration of Michigan disc golf course growth over time
 layout: single
 author_profile: true
 header:
-  teaser: \assets\images\discGolfVisualizationStatic.png
+  teaser: /assets/images/discGolfVisualizationStatic.png
 gallery:
   - url: https://i.redd.it/7hurxqtu6rc61.gif
     image_path: https://i.redd.it/7hurxqtu6rc61.gif
