@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/thumbnail.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate student at GVSU actively developing my computer science and programming skillset."
   location         : "Grand Rapids, MI"
-  email            : "griesenj@mail.gvsu.edu"
+  email            : "jon@jongriesen.com"
   links:
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
