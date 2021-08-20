@@ -19,3 +19,5 @@ toc_icon: "cogs"
 ## Outcomes
 
 ## Gallery
+
+{% include video id="03RWa5oZcPQ" provider="youtube" caption="Disc Golf GDX Gameplay." %}

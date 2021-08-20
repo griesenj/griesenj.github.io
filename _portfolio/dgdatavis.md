@@ -1,6 +1,6 @@
 ---
 title: "Disc Golf Data Visualization"
-excerpt: "Java driven illustration of Michigan disc golf course growth over time."
+excerpt: "Java-driven illustration of Michigan disc golf course growth over time."
 layout: single
 author_profile: true
 header:
@@ -13,11 +13,11 @@ toc_label: "Disc Golf Data Visualization"
 toc_icon: "cogs"
 ---
 
-[View project source code on GitHub](https://github.com/griesenj/DiscGolfVisualization)
+**[View project source code on GitHub](https://github.com/griesenj/DiscGolfVisualization)**
 
 ## Overview
 
-Throughout the years I have played disc golf, the rapid expansion of the sport over time has been incredibly obvious to anyone playing attention. The courses I regularly play are busier in general, and an impressive number of new courses have popped up across the country. I felt that it would be an interesting endeavor to visualize this rapid growth within the state of Michigan. As such, I utilized geolocation data scraped from dgcoursereview.com to plot the addition of new courses over time via the Java GeoTools Library. The result is a color-coded .gif that covers 40+ years of course expansion within the state (with each second of time passage denoting a single year).
+Throughout the years I have played disc golf, the rapid expansion of the sport over time has been incredibly obvious to anyone paying attention. The courses I regularly play are busier in general, and an impressive number of new courses have popped up across the country. I felt that it would be an interesting endeavor to visualize this rapid growth within the state of Michigan. As such, I utilized geolocation data scraped from dgcoursereview.com to plot the addition of new courses over time via the Java GeoTools Library. The result is a color-coded .gif that covers 40+ years of course expansion within the state (with each second of time passage denoting a single year).
 
 ## Technologies
 
