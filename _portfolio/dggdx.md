@@ -33,5 +33,3 @@ I am pleased with the progress made so far, but there is a long way to go before
 ## Gallery
 
 {% include video id="03RWa5oZcPQ" provider="youtube" caption="Disc Golf GDX Gameplay." %}
-
-Check out the <a href="/assets/misc/dggdxWriteup.pdf" target="_blank">detailed PDF writeup here</a> for more information.
