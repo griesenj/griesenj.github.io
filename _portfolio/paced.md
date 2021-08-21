@@ -63,7 +63,7 @@ For a detailed overview of the application's operation feel free to watch the pr
 
 ## Outcomes
 
-Considering the fact that this was my first attempt at a fully functional mobile application, I am quite happy with the overall project. Thep process provided me with some practical exposure to JavaScript and the authoring of mobile applications without the need to dive into native code. Further optimizations to the applicaiton would be necessary for the purposes of a full release, as some of my peers reported slight graphical hiccups related to smaller screen sizes on Android devices. With that said, the current state of the project is largely functional and accomplishes the use cases I intially set out to achieve.
+Considering the fact that this was my first attempt at a fully functional mobile application, I am quite happy with the overall project. The process provided me with some practical exposure to JavaScript and the authoring of mobile applications without the need to dive into native code. Further optimizations to the applicaiton would be necessary for the purposes of a full release, as some of my peers reported slight graphical hiccups related to smaller screen sizes on Android devices. With that said, the current state of the project is largely functional and accomplishes the use cases I intially set out to achieve.
 
 ## Gallery
 

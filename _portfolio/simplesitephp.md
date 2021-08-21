@@ -38,6 +38,8 @@ The website use case is outined below:
 * Provides functionality to sign up and remove an existing email address from a faux mailing list.
 * Displays existing roster data and provides a web form allowing new players to add their information to the roster.
 
+To see the website in action please reference the video and static images in the gallery section below.
+
 ## Technologies
 
 * HTML
