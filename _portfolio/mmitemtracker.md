@@ -4,7 +4,7 @@ excerpt: "MVC item tracker for The Legend of Zelda: Majora's Mask created using 
 layout: single
 author_profile: true
 header:
-  teaser: https://images.nintendolife.com/2446a1b7760a6/na.original.jpg
+  teaser: https://i.imgur.com/zoClvfk.png
 gallery:
   - url: https://i.imgur.com/sEIteYu.gif
     image_path: https://i.imgur.com/sEIteYu.gif

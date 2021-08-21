@@ -16,6 +16,10 @@ toc_icon: "cogs"
 
 ## Technologies
 
+* Java
+* LibGDX Framework
+* IntelliJ IDEA
+
 ## Outcomes
 
 ## Gallery

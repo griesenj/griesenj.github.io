@@ -1,6 +1,6 @@
 ---
 title: "Pac-Meme"
-excerpt: "Clone of the popular arcade game \"Pac-Man\". Developed collaboratively using Java and Swing GUI framework."
+excerpt: "Collaborative clone of the popular arcade game \"Pac-Man\" using Java and Swing."
 layout: single
 author_profile: true
 header:

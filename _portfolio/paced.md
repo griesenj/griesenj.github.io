@@ -1,6 +1,6 @@
 ---
 title: "Paced"
-excerpt: "Video game speedrun timer developed for mobile with React Native."
+excerpt: "Video game speedrun timer developed for mobile with JavaScript and React Native."
 layout: single
 author_profile: true
 header:
@@ -49,6 +49,8 @@ When speedrunning a given video game, the goal is generally the completion a gam
 
 A desktop application known as LiveSplit exists that accomplishes many of these tasks, but I found comparable offerings within the mobile space lacking in terms of features and ease of use. This gap served as the impetus for Paced, which strives to be a elegant mobile splits offering for casual and experienced speedrunners alike.
 
+For a detailed overview of the application's operation feel free to watch the presentation video in the gallery section below! You will also find screenshots of the app in action.
+
 ## Technologies
 
 * JavaScript
@@ -57,8 +59,11 @@ A desktop application known as LiveSplit exists that accomplishes many of these 
 * Expo Go
 * Firebase (Cloud data persistence)
 * Windows Subsystem for Linux (WSL2)
+* Visual Studio Code
 
 ## Outcomes
+
+Considering the fact that this was my first attempt at a fully functional mobile application, I am quite happy with the overall project. Thep process provided me with some practical exposure to JavaScript and the authoring of mobile applications without the need to dive into native code. Further optimizations to the applicaiton would be necessary for the purposes of a full release, as some of my peers reported slight graphical hiccups related to smaller screen sizes on Android devices. With that said, the current state of the project is largely functional and accomplishes the use cases I intially set out to achieve.
 
 ## Gallery
 
