@@ -40,7 +40,7 @@ In terms of actual project development, we set out to develop a clone of the pop
 
 ## Outcomes
 
-While the completed game only consists of a single level, there are many useful features that were implemented that could easily be scaled into a fully-fledged version of the game. In particular, it would be interesting to expand upon the existing enemy AI behavior such that subsequent levels would scale the difficulty appropriately as the player progresses. This in turn would require some revisions to the existing scoring system.
+While the completed game only consists of a single level, there are many useful features that were implemented that could easily be scaled into a fully-fledged version of the game. It would be particularly interesting to expand upon the existing enemy AI behavior such that subsequent levels would scale the difficulty appropriately as the player progresses. This in turn would require some revisions to the existing scoring system.
 
 ## Gallery
 

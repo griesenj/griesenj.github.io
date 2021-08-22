@@ -43,7 +43,7 @@ toc_icon: "cogs"
 
 ## Overview
 
-Paced is a project that stemmed from a graduate-level mobile application development class I took over the summer, ultimately serving as my final project deliverable for the course. The project executes Javascript code via React Native to produce an elegant splits timer dedicated to the concept of "speedrunning" a video game.
+Paced is a project that stemmed from a graduate-level mobile application development class I took over the summer, ultimately serving as my final project deliverable for the course. The project executes JavaScript code via React Native to produce an elegant splits timer dedicated to the concept of "speedrunning" a video game.
 
 When speedrunning a given video game, the goal is generally the completion a game (or a subset thereof) as quickly as possible given a predetermined set of constraints. To track improvement over time it is advantageous for the player to use a tool to monitor the successful completion of various segments. These segments can then be compared to previous bests and provide an ongoing benchmark from which to assess the quality of a given speedrun.
 
@@ -63,9 +63,9 @@ For a detailed overview of the application's operation feel free to watch the pr
 
 ## Outcomes
 
-Considering the fact that this was my first attempt at a fully functional mobile application, I am quite happy with the overall project. The process provided me with some practical exposure to JavaScript and the authoring of mobile applications without the need to dive into native code. I also explored the use of hooks to handle React component state without the incorporation of a corresponding class.
+Considering this was my first attempt at a fully functional mobile application, I am quite happy with the overall project. The process provided me with some practical exposure to JavaScript and the authoring of mobile applications without the need to dive into native code. I also explored the use of hooks to handle React component state without the incorporation of a corresponding class.
 
-Further optimizations to the application would be necessary for the purposes of a full release, as some of my peers reported slight graphical hiccups related to smaller screen sizes on Android devices. With that said, the current iteration of the project is largely functional and accomplishes the use cases I intially set out to achieve.
+Further optimizations to the application would be necessary for the purposes of a full release, as some of my peers reported slight graphical hiccups related to smaller screen sizes on Android devices. With that said, the current iteration of the project is largely functional and accomplishes the use cases I initially set out to achieve.
 
 ## Gallery
 

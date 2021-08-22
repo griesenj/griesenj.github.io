@@ -31,7 +31,7 @@ For more details on the implementation process, please feel free to view the pre
 
 ## Outcomes
 
-This project was a great learning experience and helped set me on the path of considering an appropriate design pattern for a given problem from project onset. Naturally, this is a consideration that is best addressed early on in the development cycle in an effort to reduce duplication of efforts. The item tracking tool itself has also been quite useful for Zelda randomizers!
+This project was a great learning experience and helped set me on the path of considering an appropriate design pattern for a given problem from project onset. Naturally, this is a consideration that is best addressed early in the development cycle in an effort to reduce duplication of efforts. The item tracking tool itself has also been quite useful for Zelda randomizers!
 
 ## Gallery
 

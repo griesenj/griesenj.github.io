@@ -31,7 +31,7 @@ toc_icon: "cogs"
 
 This project was created as a part of a graduate level computer science class with focus on HTML, PHP, and SQLite. Basic backend functionality through PHP was used for web forms and generation of a dynamic HTML table. Read/write operations acted on a text file rather than a formal database based on server-side limitations associated with SQLite. Additionally, this project restricted all use of JavaScript.
 
-The website use case is outined below:
+The website use case is outlined below:
 
 * The premise of this project was to serve as a local informational disc golf website.
 * Links are included to external resources such as courses, gear retailers, and play instructions.
@@ -49,7 +49,7 @@ To see the website in action please reference the video and static images in the
 
 ## Outcomes
 
-The end result of this project is a functional website hosted on an Apache web server offered by Grand Valley State University to current students. While the actual site is very simplistic (particularly given the usage of a .txt file for backend data persistence rather than a formalized database such as mySQL or SQLite), it was a good opportunity to become more comfortable with the Linux terminal environment and setting up a website in "bare bones" fashion.
+The end result of this project is a functional website hosted on an Apache web server offered by Grand Valley State University to current students. While the actual site is very simplistic (particularly given the usage of a .txt file for backend data persistence rather than a formalized database such as MySQL or SQLite), it was a good opportunity to become more comfortable with the Linux terminal environment and setting up a website in "bare bones" fashion.
 
 ## Gallery
 
