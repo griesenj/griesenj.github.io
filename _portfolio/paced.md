@@ -55,7 +55,6 @@ For a detailed overview of the application's operation feel free to watch the pr
 
 * JavaScript
 * React Native
-* NodeJS
 * Expo Go
 * Firebase (Cloud data persistence)
 * Windows Subsystem for Linux (WSL2)
